@@ -1,1 +1,2 @@
-unittest
+# requirements.txt
+# Este archivo puede estar vacío o contener otras dependencias, pero no unittest.
